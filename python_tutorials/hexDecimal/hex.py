@@ -53,7 +53,8 @@
 ######Lecture solution
 powers = []
 for power in range(15, -1, -1):
-    powers.append(2 ** power)
+    #binary
+    #powers.append(2 ** power)
 
 #print(powers);
 
